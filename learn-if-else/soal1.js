@@ -1,3 +1,8 @@
+// Pemeriksaan Bilangan:
+// a. Buatlah program JavaScript yang meminta pengguna memasukkan sebuah bilangan. Kemudian,
+// program akan menampilkan pesan apakah bilangan tersebut positif, negatif, atau nol.
+// b. Modifikasi program di atas agar menampilkan pesan apakah bilangan tersebut genap atau ganjil.
+
 function cekBilangan() {
   let tryAgain = true;
 
