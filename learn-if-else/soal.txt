@@ -1,0 +1,24 @@
+Tentu, berikut adalah contoh soal JavaScript untuk pemahaman if-else dan while loop:
+
+1. Pemeriksaan Umur:
+
+Buatlah program yang meminta pengguna memasukkan usia. 
+Jika usia yang dimasukkan lebih dari atau sama dengan 18, 
+tampilkan pesan "Anda dewasa". Jika usia di bawah 18, 
+tampilkan pesan "Anda masih anak-anak". 
+Terus minta usia lagi sampai pengguna memasukkan nilai yang valid (angka positif).
+
+2. Penentuan Angka:
+
+Buat program yang meminta pengguna memasukkan sebuah angka. 
+Jika angka tersebut positif, tampilkan pesan "Angka positif". 
+Jika angka tersebut negatif, tampilkan pesan "Angka negatif". 
+Jika angka tersebut nol, tampilkan pesan "Nol". 
+Terus minta angka lagi sampai pengguna memasukkan nilai yang valid.
+
+3. Penghitungan Bilangan Genap:
+
+Buat program yang menghitung jumlah bilangan genap dari 1 
+hingga angka yang dimasukkan oleh pengguna. 
+Tampilkan hasilnya setelah pengguna memasukkan angka. 
+Pastikan untuk menangani kasus jika pengguna memasukkan nilai yang bukan angka.
